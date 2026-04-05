@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "braveorg.aternos."
+    "ip": braveorg.aternos.me
     "port": 33231,
     "version": "",
     "try-creative": false
